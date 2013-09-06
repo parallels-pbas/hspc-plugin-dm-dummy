@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" convert_to_utf="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_contact_owner</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Owner</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_admin</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Administrative</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_tech</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Technical</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_bill</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Billing</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Dummy plug-in doesn't have the registrar lock operating ability.</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Dummy</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domain lookup mode (for Transfer)</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domain lookup mode (for Registration)</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Always available</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Always unavailable</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Check using whois server</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Always reject domains registration. Domains can be marked as 'Registered' only manually.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Always reject domains transfer. Domains can be marked as 'Registered' only manually.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Always report error on NS synchronization. Name servers will never be marked as 'Synchronized with the Registrar'.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domain registration via Dummy plug-in could not be completed. You should turn off the "Always reject domains registration" option in order to register domain or mark it as 'Registered' manually.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domain transfer via Dummy plug-in could not be completed. You should turn off the "Always reject domains transfer" option in order to transfer domain or mark it as 'Registered' manually.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>NS synchronization via Dummy plug-in could not be completed. You should turn off the "Always report error on NS synchronization option" in order to mak name servers as 'Synchronized with the Registrar'.</val>
+</string>
+
+</strings>

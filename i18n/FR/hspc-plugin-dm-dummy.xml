@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_contact_admin</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Administratif</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_bill</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Facturation</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_owner</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Propri</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_tech</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Technique</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>La synchronisation des NS via le plug-in Dummy a échoué. Pour pouvoir marquer les serveurs de noms comme étant 'Synchronisés avec le registrar', vous devez désactiver l'option 'Toujours signaler les erreurs si l'option synchronisation des NS est activée'.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Toujours signaler les erreurs lors de la synchronisation des NS. Les serveurs de noms ne seront jamais marqués comme étant 'Synchronisés avec le registrar'.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>L'enregistrement du domaine via le plug-in Dummy a échoué. Pour enregistrer un domaine, vous devez désactiver l'option "Toujours refuser l'enregistrement des domaines" ou le marquer à la main comme étant 'Enregistré'.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Le transfert du domaine via le plug-in Dummy a échoué. Pour pouvoir transférer le domaine, vous devez désactiver l'option "Toujours refuser le transfert de domaines" ou le marquer à la main comme étant 'Enregistré'.</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Mode Recherche de domaines (pour le transfert)</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Le plug-in Dummy n'a pas la fonctionnalité pour gérer des blocages du registrar.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Toujours refuser le transfert de domaines.  Le seul moyen de marquer les domaines comme étant "enregistrés" c'est à la main.</val>
+</string>
+
+<string>
+<id>dm_dummy_common_error</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Une erreur s'est produite lors de l'enregistrement du domaine. Pour de plus amples détails, consulter le log de l'action</val>
+</string>
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Le domaine dont l'ID est '%domain_id%' est introuvable</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Toujours refuser l'enregistrement des domaines. Le seul moyen de marquer les domaines comme étant "enregistrés" c'est à la main.</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Rechercher en utilisant le serveur Whois</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Toujours disponible</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Mode Recherche de domaines (pour l'enregistrement)</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Réduit</val>
+</string>
+
+<string>
+<id>dm_dummy_not_conf</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Non configuré</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Jamais disponible</val>
+</string>
+
+</strings>

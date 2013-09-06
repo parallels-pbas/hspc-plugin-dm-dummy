@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_contact_admin</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Administrativ</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_bill</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Abrechnung</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_owner</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Besitzer</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_tech</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Technisch</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>NS-Synchronisierung über Dummy-Plugin konnte nicht fertiggestellt werden. Deaktivieren Sie die Option "Fehler bei NS-Synchronisierung immer melden", um Nameserver als "Mit dem Registrar synchronisiert" zu kennzeichnen.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Fehler bei NS-Synchronisierung immer melden. Nameserver werden nie als "Mit dem Registrar synchronisiert" gekennzeichnet.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domainregistrierung über Dummy-Plugin konnte nicht fertiggestellt werden. Sie müssen die Option "Domainregistrierung stets ablehnen" deaktivieren, um eine Domain zu registrieren, oder sie manuell als "Registriert" kennzeichnen.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domaintransfer über Dummy-Plugin konnte nicht fertiggestellt werden. Sie müssen die Option "Domaintransfer stets ablehnen" deaktivieren, um eine Domain zu transferieren, oder sie manuell als "Registriert" kennzeichnen.</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domainsuchmodus (für Transfer)</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Das Dummy-Plugin hat keine Registrar-Lock-Funktionalität.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domaintransfer stets ablehnen. Domains können nur manuell als "Registriert" gekennzeichnet werden.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Kann Domain '%domain_id%' nicht finden</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Immer verfügbar</val>
+</string>
+
+<string>
+<id>dm_dummy_common_error</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Während der Domainregistrierung ist ein Fehler aufgetreten. Details finden Sie im Action Log</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domainsuchmodus (für Registrierung)</val>
+</string>
+
+<string>
+<id>dm_dummy_not_conf</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Nicht konfiguriert</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Nie verfügbar</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domainregistrierung stets ablehnen. Domains können nur manuell als "Registriert" gekennzeichnet werden.</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Mithilfe des Whois-Servers überprüfen</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Dummy</val>
+</string>
+
+</strings>

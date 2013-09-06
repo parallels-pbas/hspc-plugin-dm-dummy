@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="BIG5"?>
+<strings lang="tw" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_contact_admin</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>管理</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_bill</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>付費</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_owner</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>所有者</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_tech</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>技術</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>無法透過模擬外掛程式完成NS同步。您應關閉“NS同步時總是報告錯誤”以使名稱伺服器作為“與註冊商同步”。</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>透過模擬外掛程式註冊網站無法完成。您應關閉選項“總是拒絕網站註冊”以註冊網站或手動將其標識為“已註冊”。</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>透過模擬外掛程式轉移網站無法完成。您應關閉選項“總是拒絕網站轉移”以轉移網站或手動將其標識為“已註冊”。</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>網站尋找模式(用於轉移)</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>模擬外掛程式不具有註冊商鎖定操作功能。</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>NS同步時總是報告錯誤。名稱伺服器從不會被標識為“與註冊商同步”。</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>總是拒絕網站轉移。網站只可被手動標識為“已註冊”。</val>
+</string>
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>無法找到id為%domain_id%的網站</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>總是可用</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>網站尋找模式(用於註冊)</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>總是佔用</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>總是拒絕網站註冊。網站只可被手動標識為“已註冊”。</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>使用whois伺服器檢查</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>模擬</val>
+</string>
+
+<string>
+<id>dm_dummy_common_error</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>域註冊時發生錯誤。見啟用記錄取得詳情。</val>
+</string>
+
+<string>
+<id>dm_dummy_not_conf</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>沒有設定</val>
+</string>
+
+</strings>

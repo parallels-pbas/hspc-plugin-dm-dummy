@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<strings lang="ru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Синхронизация серверов имен при помощи тестового модуля не выполнена. Отключите параметр "Всегда докладывать об ошибке при синхронизации серверов имен" для того, чтобы изменить статус серверов имен на "Синхронизированные с регистраром".</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Не удалось завершить перенос домена при помощи тестового модуля. Для переноса домена отключите параметр "Всегда отклонять перенос доменов" или вручную пометьте домен как "зарегистрированный".</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Не удалось завершить регистрацию домена при помощи тестового модуля. Отключите параметр "Всегда отклонять регистрацию домена", чтобы зарегистрировать домен или пометить его как "Зарегистрированный" вручную.</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Всегда докладывать об ошибке при синхронизации данных серверов имен. Серверы имен никогда не будут помечены как "Синхронизированные с регистраром".</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Для тестового модуля не предусмотрена возможность блокировки регистрации домена регистраром.</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Режим поиска домена (для переноса)</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Блокировать перенос домена</val>
+</string>
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Не удалось найти домен '%domain_id%'</val>
+</string>
+
+</strings>

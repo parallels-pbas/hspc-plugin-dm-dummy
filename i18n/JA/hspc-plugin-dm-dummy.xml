@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<strings lang="ja" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_contact_admin</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>管理者</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_bill</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>請求</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_owner</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>所有者</val>
+</string>
+
+<string>
+<id>dm_dummy_contact_tech</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>テクニカル</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ダミープラグインによるネームサーバ同期化は完了させることが出来ません。ネームサーバを "レジストラと同期する" としてマークするには、"NS 同期化時のエラーを常に報告する" オプションを無効にする必要があります</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>NS の同期化に関して常にエラーを報告する。ネームサーバは 'レジストラと同期する' としてマークされません</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ダミープラグインを用いたドメイン登録を完了させることはできません。 ドメイン登録を行うには、"ドメイン登録を常に破棄する"オプションを無効にするか、手動にて '登録済み'とマークして下さい</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ダミープラグインを用いたドメイントランスファを完了させることはできません。 ドメイントランスファを行うには、"ドメイントランスファを常に破棄する"オプションを無効にするか、手動にて '登録済み'とマークして下さい</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ドメイン参照モード (トランスファ用)</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ダミープラグインはレジストラロックを操作する機能を有していません</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ドメイントランスファを常に破棄します。ドメインは手動でのみ '登録済み' とマーク可能です</val>
+</string>
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ドメイン '%domain_id%' が見つかりません</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>常に使用可能</val>
+</string>
+
+<string>
+<id>dm_dummy_common_error</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ドメインの登録中にエラーが発生しました。詳細はアクションログを参照して下さい</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ドメイン参照モード (登録用)</val>
+</string>
+
+<string>
+<id>dm_dummy_not_conf</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>未設定</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>常に利用不可能</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ドメイン登録を常に破棄します。ドメインは手動でのみ '登録済み' とマークすることが可能です</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Whoisサーバを用いてチェックする</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>ダミー</val>
+</string>
+
+</strings>

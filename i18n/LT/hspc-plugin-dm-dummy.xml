@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1257"?>
+<strings lang="lt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Standartinis prieglobos serverio pavadinimas</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Visada prieinamas</val>
+</string>
+
+<string>
+<id>dm_dummy_common_error</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Registruojant domen? ?vyko klaida. Detalios informacijos kreipkit?s ? Action Log.</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Domeno pavadinimo paie?kos re?imas</val>
+</string>
+
+<string>
+<id>dm_dummy_not_conf</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Nesukonfigūruotas</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Visada u?imtas</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Pristabdyti domeno registracij?</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Naudokite whois server?</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Fiktyvi (Dummy) įvestis</val>
+</string>
+
+</strings>

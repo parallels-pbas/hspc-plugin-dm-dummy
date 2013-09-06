@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="it" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>dm_dummy_err_suppressed_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>La sincronizzazione del NS tamite il plugin Dummy non puo' essere completata. Devi disabilitare l'opzione 'Riporta sempre errore nella sincronizzazione dei NS' per fare in modo che i name server siano "Sincronizzati con il Registrar".</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>La registrazione del dominio tramite il plugin Dummy non puo' essere completata. Devi disabilitare l'opzione 'Impedisci la registrazione di domini' per poter procedere con l'operazione oppure contrassegnarli manualmente come 'Registrati'.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_suppressed_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Il trasferimento del dominio tramite il plugin Dummy non puo' essere completato. Devi disabilitare l'opzione 'Impedisci il trasferimento del dominio' per poter procedere con l'operazione oppure contrassegnarli come 'Registrati' manualmente.</val>
+</string>
+
+<string>
+<id>dm_dummy_mode_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Modalita' lookup di dominio (per Trasferimento)</val>
+</string>
+
+<string>
+<id>dm_dummy_no_reglock</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Il plugin di prova non ha la possibilita' di gestire il registrar lock</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_ns_sync</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Riporta sempre un errore nella sincronizzazione del NS. I name server non verranno mai contrassegnati come 'Sincronizzato con il Restrar'</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_tr</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Impedisci sempre la registrazione dei domini. I domini devono essere contrassegnati manualmente come 'Registrati'.</val>
+</string>
+
+<string>
+<id>dm_dummy_err_cant_find_domain_with_id</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Impossibile trovare il dominio con id  '%domain_id%'</val>
+</string>
+
+<string>
+<id>dm_dummy_avail</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Sempre disponibile</val>
+</string>
+
+<string>
+<id>dm_dummy_common_error</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Si e' verificato un errore durante la registrazione del dominio. Per ulteriori dettagli, consulta il Log delle Azioni</val>
+</string>
+
+<string>
+<id>dm_dummy_mode</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Modalita' lookup del dominio (per Registrazione)</val>
+</string>
+
+<string>
+<id>dm_dummy_not_conf</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Non configurato</val>
+</string>
+
+<string>
+<id>dm_dummy_occ</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Sempre non disponibile</val>
+</string>
+
+<string>
+<id>dm_dummy_sup_reg</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Rifiuta sempre la registrazione dei domini. I domini possono essere contrassegnati come 'Registrati' solo manualmente.</val>
+</string>
+
+<string>
+<id>dm_dummy_use_whois</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Verifica utilizzando il server whois</val>
+</string>
+
+<string>
+<id>dm_dummy</id>
+<c>PCC | Domain Manager| Dummy plugin</c>
+<val>Provvisorio</val>
+</string>
+
+</strings>
