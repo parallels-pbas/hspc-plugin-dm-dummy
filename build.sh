@@ -1,4 +1,4 @@
-NAME=`basename $PWD`
+NAME=`basename $PWD` 
 cd ..
 rm -rf $NAME.tar*
 tar -jcf $NAME.tar.bz2 $NAME
